@@ -8,7 +8,7 @@ This is a simple password management application built using Python's `tkinter` 
 - **Encrypt Passwords**: Securely encrypt passwords using PBKDF2-HMAC with AES encryption.
 - **Save Encrypted Passwords**: Store encrypted passwords along with a label (name or description) for easy identification.
 - **Load Stored Passwords**: Load previously stored encrypted passwords after entering the correct master password.
-- **Copy Passwords**: Copy decrypted passwords to the clipboard for use.
+- **Copy Passwords**: Copy decrypted passwords to the clipboard for use. **Remember that you have to have the application open in order to paste it**
 - **Delete Passwords**: Delete specific stored passwords from the list.
 
 ## Installation
