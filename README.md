@@ -62,4 +62,4 @@ Encrypted passwords are stored in the file `verschluesselte_passwoerter.txt`. Ea
 
 ## License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the GNU License.
