@@ -53,7 +53,7 @@ Passwords are encrypted using the AES algorithm in CBC mode. The key is derived 
 
 ## File Format
 
-Encrypted passwords are stored in the file `verschluesselte_passwoerter.txt`. Each entry consists of a label followed by the encrypted data, including the salt, IV, and ciphertext.
+Encrypted passwords are stored in the file `encrypted_passwords.txt`. Each entry consists of a label followed by the encrypted data, including the salt, IV, and ciphertext.
 
 ## Security Considerations
 
