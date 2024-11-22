@@ -26,7 +26,7 @@ To get started with this application, you need to install Python and the require
    You can install the required libraries by running:
    ```bash
    pip install cryptography
-   ```bash
+   ```
    
    `tkinter` comes bundled with Python, so no additional installation is needed for it.
 
