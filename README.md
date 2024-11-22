@@ -24,11 +24,13 @@ To get started with this application, you need to install Python and the require
      - `cryptography` (for encryption functionalities)
    
    You can install the required libraries by running:
-   - `pip install cryptography`
+   ``bash
+   pip install cryptography
+   ``bash
    
    `tkinter` comes bundled with Python, so no additional installation is needed for it.
 
-3. **Run the application**:
+4. **Run the application**:
    - Once the dependencies are installed, simply run the Python script to start the application.
 
 ## Usage
