@@ -1,4 +1,7 @@
 # SecurePass
+**Author:** Jimmy Luong
+
+## Overview
 
 This is a simple password management application built using Python's `tkinter` and `cryptography` libraries. It allows users to securely store passwords using encryption with a master password. The application also provides functionality to load, copy, and delete encrypted passwords.
 
